@@ -1,3 +1,5 @@
+`Độ khó: Dễ `
+
 ## Find Pivot Index
 
 Cho dãy số có `n` phần tử (gồm cả số âm và dương). Tìm index của số thoả mãn điều kiện sau tổng các số từ [0.. index - 1] bằng tổng các số từ [index + 1 .. n] 
