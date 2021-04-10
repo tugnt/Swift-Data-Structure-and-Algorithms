@@ -3,44 +3,44 @@ Chào các bạn hiện mình đang là một iOS Developer cho một công ty �
 
 Repository này mình tạo ra là để mục đích mình ôn tập, và trong quá trình học mình cũng sẽ memo lại những phần mình học được. Những bài toán giải thuật hay mình cũng sẽ tổng hợp lại, hy vọng sẽ có ích với mọi người.
 
-* Complexity/space analysis
-* Bitwise operations
-* Linked lists
-* Stacks
-* Queues/deques
-* Arrays/vectors
-* Hash tables (maps)
-* Sets
-* Binary search
-* Sorting
+- [ ] Complexity/space analysis
+- [ ] Bitwise operations
+- [ ] Linked lists
+- [ ] Stacks
+- [ ] Queues/deques
+- [ ] Arrays/vectors
+- [ ] Hash tables (maps)
+- [ ] Sets
+- [ ] Binary search
+- [ ] Sorting
 	- selection
 	- insertion
 	- heapsort
 	- quicksort
 	- merge sort
-* Priority queues
-* Binary heap
-* Trees
+- [ ] Priority queues
+- [ ] Binary heap
+- [ ] Trees
 	* binary search trees
 	* balanced search trees (general concept)
 	* traversals: preorder, inorder, postorder, BFS, DFS
-* Graphs
+- [ ] Graphs
 	* directed
 	* undirected
 	* adjacency matrix
 	* adjacency list
-* *dynamic programming*(**note:**does not appear in coaching notes, but is useful)
-* Probability
-* Permutations and combinations
-* Bbject-oriented programming
-* Processes/threading
+- [ ] *dynamic programming*(**note:**does not appear in coaching notes, but is useful)
+- [ ] Probability
+- [ ] Permutations and combinations
+- [ ] Bbject-oriented programming
+- [ ] Processes/threading
 	* memory
 	* caching
 	* deadlock avoidance
 	* scheduling
-* Testing practices (1+ year experience)
+- [ ] Testing practices (1+ year experience)
 If you have a networking background, expect to be asked:
-* network stack / OSI
+- [ ] Network stack / OSI
 If you have 4 or more years of experience, expect system designs in addition to coding problems.
-* scaling large systems
-* designing for scale
+- [ ] Scaling large systems
+- [ ] Designing for scale
