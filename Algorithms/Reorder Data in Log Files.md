@@ -18,3 +18,30 @@ Nhiệm vụ của chúng ta đó chính là sắp xếp letter logs và trả l
 Kết quả trả về đó chính là `return letter_logs + digit_logs` . 
 
 Độ phức tạp của giải thuật này cũng chính là độ phức tạp của thuật toán sắp xếp = O(nLogn)
+
+```swift
+
+    func reorderLogFiles(_ logs: [String]) -> [String] {
+        var digits = [String]()
+        var letters = [[Substring]]() // leters = [[Key, Content]]
+        // Voi truong hop"g1 act car" [[g1, act car]]
+        logs.forEach { item in
+            if item.last!.isNumber {
+                digits.append(item)
+            } else {
+                letters.append(item.split(separator: " ", maxSplits: 1, omittingEmptySubsequences: true))
+            }
+        }
+
+        let sortedLeter = letters.sorted { s1,s2 in
+            if s1[1] == s2[1] {
+                return s1[0] < s2[0]
+            } else {
+                return s1[1] < s2[1]
+            }
+           return true
+        }
+
+        return sortedLeter.map { $0.joined(separator: " ") } + digits
+    }
+```
