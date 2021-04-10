@@ -3,7 +3,7 @@ Chào các bạn hiện mình đang là một iOS Developer cho một công ty �
 
 Repository này mình tạo ra là để mục đích mình ôn tập, và trong quá trình học mình cũng sẽ memo lại những phần mình học được. Những bài toán giải thuật hay mình cũng sẽ tổng hợp lại, hy vọng sẽ có ích với mọi người.
 
-- [ ] Complexity/space analysis
+- [x] [Complexity/space analysis](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Complexity-space%20analysis.md)
 - [ ] Bitwise operations
 - [ ] [Linked List](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Linked%20list.md)
 - [ ] Stacks
