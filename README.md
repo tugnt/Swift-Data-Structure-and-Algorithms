@@ -5,7 +5,7 @@ Repository này mình tạo ra là để mục đích mình ôn tập, và trong
 
 - [ ] Complexity/space analysis
 - [ ] Bitwise operations
-- [ ] Linked lists
+- [ ] [Linked List](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Linked%20list.md)
 - [ ] Stacks
 - [ ] Queues/deques
 - [ ] Arrays/vectors
@@ -14,10 +14,10 @@ Repository này mình tạo ra là để mục đích mình ôn tập, và trong
 - [ ] Binary search
 - [ ] Sorting
 	- selection
-	- insertion
+	- [Insertion](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Insertion%20Sort.md)
 	- heapsort
-	- quicksort
-	- merge sort
+	- [QuickSort](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Quicksort.md)
+	- [Merge Sort](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Merge%20sort.md)
 - [ ] Priority queues
 - [ ] Binary heap
 - [ ] Trees
