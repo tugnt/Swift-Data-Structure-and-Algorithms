@@ -6,7 +6,7 @@ Repository này mình tạo ra là để mục đích mình ôn tập, và trong
 - [x] [Complexity/space analysis](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Complexity-space%20analysis.md)
 - [ ] Bitwise operations
 - [ ] [Linked List](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Linked%20list.md)
-- [ ] Stacks
+- [ ] [Stacks](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Stack.md)
 - [ ] Queues/deques
 - [ ] Arrays/vectors
 - [ ] Hash tables (maps)
