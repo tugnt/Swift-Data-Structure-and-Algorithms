@@ -7,7 +7,7 @@ Repository này mình tạo ra là để mục đích mình ôn tập, và trong
 - [ ] Bitwise operations
 - [ ] [Linked List](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Linked%20list.md)
 - [ ] [Stacks](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Stack.md)
-- [ ] Queues/deques
+- [ ] [Queues/deques](https://github.com/tugnt/Swift-Data-Structure-and-Algorithms/blob/main/Queues.md)
 - [ ] Arrays/vectors
 - [ ] Hash tables (maps)
 - [ ] Sets
