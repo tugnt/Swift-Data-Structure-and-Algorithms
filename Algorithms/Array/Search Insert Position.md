@@ -69,7 +69,7 @@ func searchInsert(_ nums: [Int], _ target: Int) -> Int {
         } else {
             var lowIndex = 0
             var upIndex = nums.count - 1
-          	// Duyệt cho đến khi lowInde = upIndex thì khi đó giá trị của index chính là giá trị mà ta cần insert vào mảng
+          	// Duyệt cho đến khi lowInde = upIndex thì khi đó giá trị của index chính là giá trị mà ta cần in
             while lowIndex <= upIndex {
                 let middle = (lowIndex + upIndex) / 2
                 let middleValue = nums[middle]
